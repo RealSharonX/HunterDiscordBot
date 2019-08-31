@@ -1,0 +1,20 @@
+{
+  "name": "rank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rank.js",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "discord.io": "^2.5.3",
+    "eslint": "^5.16.0",
+    "eslint_d": "^7.3.0",
+    "node-fetch": "^2.6.0",
+    "teemo-shroom": "^1.0.4",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Racem Aloui",
+}
